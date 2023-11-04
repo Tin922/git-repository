@@ -1,1 +1,3 @@
-neki drugi tekst
+
+test commit checkout
+
